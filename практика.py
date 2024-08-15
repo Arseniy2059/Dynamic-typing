@@ -1,7 +1,6 @@
 name = ("Arseni")
 print("Name:", name)
 
-
 age = 19
 print("Age:", age)
 
